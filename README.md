@@ -23,6 +23,7 @@ python train.py --root_path '/YourMVTecPath' --source_path '/YourDTDPath' --batc
 
 # Evaluate
 The checkpoints is avaliable at [Google Drive](https://drive.google.com/file/d/1tZr24lECmGZEeb-VokrWWsvDlkhLKg6L/view?usp=sharing)
+
 To evaluate the performance with checkpoints:
 ```
 bash test_DAF.sh
